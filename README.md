@@ -22,3 +22,6 @@ Nesta formação você vai aprender a criar processos em paralelo, controlar a o
 Você vai começar aprendendo a criar processos em paralelo, controlar a ordem de execução das suas threads, vai conhecer os problemas de acesso concorrente, acessar variáveis compartilhadas, esperar a execução de outra thread e a notificar outra thread.
 
 Em seguida vai aprender a escutar exceções de outras threads, usar o cache local de variáveis em threads, a reaproveitar threads, a sincronizar threads de leitura e escrita e a trabalhe com filas.
+
+* [Threads em Java 1: Programação paralela](https://github.com/klayton-a-souza/Threads-em-Java1)
+* [Threads em Java 2: Programação concorrente avançada](https://github.com/klayton-a-souza/Threads-em-Java2)
